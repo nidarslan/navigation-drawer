@@ -1,2 +1,2 @@
 # navigation-drawer
-Navigation Component yapısını anlamak için oluşturula menü şeklinin görüntülenebilmesidir.
+Navigation Component yapısı ve Navigation Drawer Menü oluşturulması.
